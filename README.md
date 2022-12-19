@@ -13,6 +13,16 @@
 - [Лендинг по печати на конвертах](https://optpoligraf.ru/konverty/kazan)
 <!-- One of the latest works end -->
 
+### Projects and scripts:
+
+<!-- Projects and scripts start-->
+
+- [Каталог квартир. С реализацией MVC и WebPack]()
+- [Бюджетный калькулятор на чистом JavaScript]()
+- [Проект квиз на чистом JavaScript]()
+
+<!-- Projects and scripts end -->
+
 ### Languages and Tools:
 ![Html](https://img.shields.io/badge/-Html5-090909?style=for-the-badge&logo=html5&logoColor=d44922)
 ![Css3](https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
