@@ -3,7 +3,7 @@
 ## WebDeveloper
 
 <a href="https://elysium-pro.com" target="_blank">
-  <img src="https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/web-site_2.jpg" alt="The web site" width="180"/>
+  <img src="https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/web-site_2.jpg" alt="The web site" width="140"/>
 </a>
 
 ### One of the latest works:
