@@ -6,7 +6,7 @@
   <img src="https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/web-site_2.jpg" alt="The web site" width="140"/>
 </a>
 
-### One of the latest works:
+### One of the latest website developments:
 <!-- One of the latest works start-->
 - [Многостраничный сайт натяжных потолков](https://potolki-real.ru)
 - [Лендинг по изготовлению неоновых вывесок](https://optpoligraf.ru/neonovie-viveski/kazan)
