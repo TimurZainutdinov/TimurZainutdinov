@@ -1,4 +1,4 @@
-[![Header](https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/about-main.png)](https://elysium-pro.com)
+[![Header](https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/main_name.jpg)](https://elysium-pro.com)
 
 ## WebDeveloper
 
