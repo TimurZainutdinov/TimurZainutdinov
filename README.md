@@ -18,8 +18,8 @@
 <!-- Projects and scripts start-->
 
 - [Каталог квартир. С реализацией MVC и WebPack]()
-- [Бюджетный калькулятор на чистом JavaScript]()
-- [Проект квиз на чистом JavaScript]()
+- [Бюджетный калькулятор.]()
+- [Проект квиз.]()
 
 <!-- Projects and scripts end -->
 
