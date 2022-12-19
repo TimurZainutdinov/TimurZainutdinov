@@ -2,6 +2,7 @@
 
 About
 
-Languages and Tools
+## Languages and Tools
+![JavaScript](https://img.shields.io/badge/HTML-#d94924?style=for-the-badge&logo=html)
 
 Foolow Me
