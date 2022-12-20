@@ -18,8 +18,8 @@
 <!-- Projects and scripts start-->
 
 - [Каталог квартир. С реализацией MVC и WebPack.]()
+- [Простой роутер для SPA приложения.](https://github.com/TimurZainutdinov/RouterForSpaApplication)
 - [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
-- [Квиз для сайта.]()
 
 <!-- Projects and scripts end -->
 
