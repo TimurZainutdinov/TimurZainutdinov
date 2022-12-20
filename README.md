@@ -18,7 +18,7 @@
 <!-- Projects and scripts start-->
 
 - [Каталог квартир. С реализацией MVC и WebPack.]()
-- [Бюджетный калькулятор.]()
+- [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
 - [Проект квиз.]()
 
 <!-- Projects and scripts end -->
