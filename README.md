@@ -19,7 +19,7 @@
 
 - [Каталог квартир. С реализацией MVC и WebPack.]()
 - [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
-- [Проект квиз.]()
+- [Квиз для сайта.]()
 
 <!-- Projects and scripts end -->
 
