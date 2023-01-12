@@ -17,11 +17,11 @@
 
 <!-- Projects and scripts start-->
 
+- [Планировщик задач с сохранением данных в localstorage.](https://github.com/TimurZainutdinov/TaskSchedulerWithSaveToLocalStorage)
 - [Каталог квартир. С реализацией MVC и WebPack.]()
+- [Простой список задач с реализацией MVC.](https://github.com/TimurZainutdinov/SimpleTodoMvc)
 - [Простой роутер для SPA приложения.](https://github.com/TimurZainutdinov/RouterForSpaApplication)
 - [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
-- [Планировщик задач с сохранением данных в localstorage.](https://github.com/TimurZainutdinov/TaskSchedulerWithSaveToLocalStorage)
-- [Простой список задач с реализацией MVC.](https://github.com/TimurZainutdinov/SimpleTodoMvc)
 
 <!-- Projects and scripts end -->
 
