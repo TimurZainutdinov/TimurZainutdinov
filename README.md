@@ -31,6 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7c12fa)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=webpack&logoColor=8dd6f9)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=webpack&logoColor=777baf)
 ![Seo](https://img.shields.io/badge/-Seo-090909?style=for-the-badge&logo=Raspberry%20Pi&logoColor=94ca5b)
 
 ### Socials:
