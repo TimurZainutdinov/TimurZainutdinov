@@ -13,6 +13,15 @@
 - [Лендинг по печати на конвертах](https://optpoligraf.ru/konverty/kazan)
 <!-- One of the latest works end -->
 
+### layout of the site according to the mockup
+<!-- One of the latest works layout start-->
+- [Верстка страниц опросные листы и контакты](https://www.uralktp.ru/documents)
+- [Верстка страницы услуг](https://www.royalholod.ru/pages/28096-uslugi)
+- [Верстка страниц доставка и о нас](https://www.упаковка-116.рф/delivery)
+- [Верстка изготовление металлоконструкций](https://www.pzmi59.ru/pages/29312-izgotovlenie-metallokonstruktsiy)
+- [Верстка Neon signs](https://opt-poligraf.ru/kazan/neonovye-vyveski/)
+<!-- One of the latest works layout end -->
+
 ### Projects and scripts:
 
 <!-- Projects and scripts start-->
