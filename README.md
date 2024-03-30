@@ -27,9 +27,7 @@
 <!-- Projects and scripts start-->
 
 - [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
-- [Простой роутер для SPA приложения.](https://github.com/TimurZainutdinov/RouterForSpaApplication)
-- [Простой список задач с реализацией MVC.](https://github.com/TimurZainutdinov/SimpleTodoMvc)
-- [Каталог квартир. С реализацией MVC и WebPack.]()
+- [Универсальный скрипт переключения изображений.](https://github.com/TimurZainutdinov/ColorChoice)
 - [Планировщик задач с сохранением данных в localstorage.](https://github.com/TimurZainutdinov/TaskSchedulerWithSaveToLocalStorage)
 
 <!-- Projects and scripts end -->
