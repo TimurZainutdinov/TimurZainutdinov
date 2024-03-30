@@ -26,6 +26,7 @@
 
 <!-- Projects and scripts start-->
 
+- [Скрипт блокировки изменения масштаба карты при скролле.](https://github.com/TimurZainutdinov/maps-with-zoom-lock-when-scrolling/)
 - [Калькулятор расчета ремонта.](https://github.com/TimurZainutdinov/RepairCostCalculator)
 - [Универсальный скрипт переключения изображений.](https://github.com/TimurZainutdinov/ColorChoice)
 - [Планировщик задач с сохранением данных в localstorage.](https://github.com/TimurZainutdinov/TaskSchedulerWithSaveToLocalStorage)
