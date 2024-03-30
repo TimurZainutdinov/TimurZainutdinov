@@ -15,11 +15,11 @@
 
 ### layout of the site according to the mockup
 <!-- One of the latest works layout start-->
-- [Верстка страниц опросные листы и контакты](https://www.uralktp.ru/documents)
-- [Верстка страницы услуг](https://www.royalholod.ru/pages/28096-uslugi)
-- [Верстка страниц доставка и о нас](https://www.упаковка-116.рф/delivery)
-- [Верстка изготовление металлоконструкций](https://www.pzmi59.ru/pages/29312-izgotovlenie-metallokonstruktsiy)
-- [Верстка Neon signs](https://opt-poligraf.ru/kazan/neonovye-vyveski/)
+- [Верстка сайта кабельно-проводниковой продукции](https://www.nekk59.ru)
+- [Верстка сайта оборудования для упаковки](https://www.upakovka-154-spb.ru)
+- [Верстка сайта поставки стройматериалов](https://www.riversand.ru)
+- [Верстка сайта изготовление металлоконструкций](https://www.xn---54-6cdavhac4a2agilld4bzaj8gzdk.xn--p1ai/pages/32098-kvartsvinilovaya-plitka)
+- [Верстка сайта магазина строительных материалов](https://www.xn---54-6cdavhac4a2agilld4bzaj8gzdk.xn--p1ai)
 <!-- One of the latest works layout end -->
 
 ### Projects and scripts:
