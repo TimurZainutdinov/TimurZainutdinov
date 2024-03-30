@@ -1,17 +1,10 @@
-[![Header](https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/main_name.jpg)](https://elysium-pro.com)
+[![Header](https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/main_name.jpg)](https://elysium-web.site)
 
 ## WebDeveloper
 
-<a href="https://elysium-pro.com" target="_blank">
+<a href="https://elysium-web.site" target="_blank">
   <img src="https://github.com/TimurZainutdinov/TimurZainutdinov/blob/main/assets/web-site_2.jpg" alt="The web site" width="140"/>
 </a>
-
-### One of the latest website developments:
-<!-- One of the latest works start-->
-- [Многостраничный сайт натяжных потолков](https://potolki-real.ru)
-- [Лендинг по изготовлению неоновых вывесок](https://optpoligraf.ru/neonovie-viveski/kazan)
-- [Лендинг по печати на конвертах](https://optpoligraf.ru/konverty/kazan)
-<!-- One of the latest works end -->
 
 ### layout of the site according to the mockup
 <!-- One of the latest works layout start-->
@@ -21,6 +14,13 @@
 - [Верстка сайта изготовление металлоконструкций](https://www.xn---54-6cdavhac4a2agilld4bzaj8gzdk.xn--p1ai/pages/32098-kvartsvinilovaya-plitka)
 - [Верстка сайта магазина строительных материалов](https://www.xn---54-6cdavhac4a2agilld4bzaj8gzdk.xn--p1ai)
 <!-- One of the latest works layout end -->
+
+### One of the latest website developments:
+<!-- One of the latest works start-->
+- [Сайт натяжных потолков](https://potolki-real.ru)
+- [Лендинг по изготовлению неоновых вывесок](https://optpoligraf.ru/neonovie-viveski/kazan)
+- [Сайт склад инструмента](https://www.sklad-instrument-ufa.ru)
+<!-- One of the latest works end -->
 
 ### Projects and scripts:
 
